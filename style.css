@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+}
+.header{
+    background-color: aquamarine;
+    display:flex;
+    justify-content: space-between;
+}
+ 
+/*.menu{
+    background-color: burlywood;
+}*/
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+   display: flex;
+   justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #FFFF00;
+}
+
+
